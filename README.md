@@ -1,7 +1,7 @@
 # Portfolio
 
 # About me
-I am Filip Krankowski, a master of Food Science and Human Nutrition, and would-be PhD in that field. From a young age, I have been interested in computers, especially in hardware and building my own PC. Recently, I have decided to fulfill my desire and start a career in the IT sector. I would like to contribute to the IT with my knowledge and testing abilities. My career goal is to become a QA Engineer. On this repository, I would like to show you my qualifications, projects, and everything I have gained from my personal studies and research.
+I am Filip Krankowski, a master of Food Science and Human Nutrition, and would-be PhD in that field. From a young age, I have been interested in computers, especially in hardware and building my own PC. Recently, I have decided to fulfill my desire and start a career in the IT sector. I would like to contribute to the IT with my knowledge and testing abilities. My career goal is to become a AQA Engineer. On this repository, I would like to show you my qualifications, projects, and everything I have gained from my personal studies and research.
 
 # Tech skills
 + Jira:
