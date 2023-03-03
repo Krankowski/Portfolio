@@ -27,8 +27,8 @@ I am Filip Krankowski, a master of Food Science and Human Nutrition, and would-b
 # Courses
 + [Basics of manual software testing](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 + [Practical software testing](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
-+ [Git for beginers](https://www.udemy.com/course/kurs-gita/)
-+ [Postman from scratch -  REST API testing](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
++ [Git for beginers](https://www.udemy.com/course/kurs-gita/) - In progress
++ [Postman from scratch -  REST API testing](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/) - In progress
 + [Java programming](https://codegym.cc/) - In progress
 
 # Webinars
