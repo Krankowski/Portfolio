@@ -32,7 +32,7 @@ I am Filip Krankowski, a master of Food Science and Human Nutrition, and would-b
 + [Java programming](https://codegym.cc/) - In progress
 
 # Webinars
-+ [GoIT - 4 dniowy maraton testowania](https://qa.m.goit.global/pl/) 
++ [GoIT - 4-day testing marathon](https://qa.m.goit.global/pl/) 
 
 # Books
 + A. Roman, L. Stapp - Certyfikowany tester ISTQB - Poziom podstawowy - In progress
