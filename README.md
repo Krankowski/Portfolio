@@ -31,6 +31,9 @@ I am Filip Krankowski, a master of Food Science and Human Nutrition, and would-b
 + [Postman from scratch -  REST API testing](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
 + [Java programming](https://codegym.cc/) - In progress
 
+# Webinars
++ [GoIT - 4 dniowy maraton testowania](https://qa.m.goit.global/pl/) 
+
 # Books
 + A. Roman, L. Stapp - Certyfikowany tester ISTQB - Poziom podstawowy - In progress
 
