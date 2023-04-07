@@ -38,9 +38,9 @@ I am Filip Krankowski, a master of Food Science and Human Nutrition, and would-b
 + A. Roman, L. Stapp - Certyfikowany tester ISTQB - Poziom podstawowy - In progress
 
 # My Test documentation
-+ [Test Cases]()(site)
-+ [Test Scenarios]()(site)
-+ [Bug Reports]()(site)
++ [Test Cases]() (site)
++ [Test Scenarios]() (site)
++ [Bug Reports]() (site)
 
 # My Projects
 
