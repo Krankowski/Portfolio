@@ -40,7 +40,7 @@ I am Filip Krankowski, a master of Food Science and Human Nutrition, and would-b
 # My Test documentation
 + [Test Cases]() (site)
 + [Test Results]() (site)
-+ [Test Scenarios]() (site)
++ [Test Raports]() (site)
 + [Bug Reports]() (site)
 
 # My Projects
