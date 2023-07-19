@@ -50,7 +50,7 @@ studies and research.
 <summary> <b> API testing </b> </summary> 
 <ul>
 <li> Know the different between SOAP and REST APIs </li>
-<li> Can implement API's request with GET, PUT, POST, DELETE methods </li>
+<li> Can implement API request with GET, PUT, POST, DELETE methods </li>
 <li> Can read and understand web application's documentation </li>
 <li> Hands-on experience through manual testing of APIs created for educational purposes</li>
 </ul>
