@@ -1,5 +1,4 @@
 import os
-import time
 import unittest
 
 from pages.add_a_player_page import AddAPlayer

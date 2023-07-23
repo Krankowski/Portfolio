@@ -1,5 +1,4 @@
 import os
-import time
 import unittest
 
 from pages.add_match_player_page import AddingMatchPlayer
@@ -12,7 +11,6 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
 from pages.matches_page import Matches
-from pages.players_page import PlayersPage
 from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
 
 
