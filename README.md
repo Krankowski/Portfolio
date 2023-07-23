@@ -163,11 +163,11 @@ A basic course in creating automated tests for web applications.
   
     <br>
   
-  + Recording of the test *TC_001_wrong_password*. __[Check here]()__
-  + Recording of the test *TC_002_signing_out*. __[Check here]()__
-  + Recording of the test *TC_003_adding_a_player*. __[Check here]()__
-  + Recording of the test *TC_004_checking_location_of_buttons*. __[Check here]()__
-  + Recording of the test *TC_005_adding_a_match_for_last_created_player*. __[Check here]()__
+  + Recording of the test *TC_001_wrong_password*. __[Check here](https://drive.google.com/file/d/1kA5mPnZEK6hWU0bhZ38i5-sxvC6AyUy-/view?usp=sharing)__
+  + Recording of the test *TC_002_signing_out*. __[Check here](https://drive.google.com/file/d/107468XQTu7rS9wa2d75YhkP5wUdsHt4X/view?usp=sharing)__
+  + Recording of the test *TC_003_adding_a_player*. __[Check here](https://drive.google.com/file/d/1TVYZA7GkKbOxe24ZIHPpislJxMuUW6BA/view?usp=sharing)__
+  + Recording of the test *TC_004_checking_location_of_buttons*. __[Check here](https://drive.google.com/file/d/1mnjTJzWyqncKxBnT05qxJ0VUz-Wf6-hy/view?usp=sharing)__
+  + Recording of the test *TC_005_adding_a_match_for_last_created_player*. __[Check here](https://drive.google.com/file/d/1pVjWJ5YHs34WPVNe5O35IvODfwHoejbe/view?usp=sharing)__
   
     <br>
   
