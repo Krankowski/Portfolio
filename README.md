@@ -155,3 +155,20 @@ A basic course in creating automated tests for web applications.
   + Bug #1. Error displaying product image. __[Check here](https://drive.google.com/file/d/1YEztzW29qEMlj736k1C60B462Gn7LKAc/view?usp=sharing)__
   + Bug #2. Clicking on the "View cart" button next to recently added product does not relocate to user's cart. __[Check here](https://drive.google.com/file/d/1iFZexlNRcWrbwuvjckQ6qBqhTCwTJ-4q/view?usp=sharing)__
   + Bug #3. Clicking on the "X" button next to any product in cart does not delete the product from the cart. __[Check here](https://drive.google.com/file/d/19u4cpjQgnCh4Cg0OGuKNIBFO9WcqtM_8/view?usp=sharing)__
+
+### Test cases automated in PyCharm
+
++ A demo [scoutspanel](https://scouts-test.futbolkolektyw.pl/login) site was used to create test cases and automat them.
+  + Test cases for scoutspanel site. __[Check here](https://docs.google.com/spreadsheets/d/1x7f8Yk0am4dxqy_thKiOildIs4yLFmyD/edit?usp=sharing&ouid=103846351617777504097&rtpof=true&sd=true)__
+  
+    <br>
+  
+  + Recording of the test *TC_001_wrong_password*. __[Check here]()__
+  + Recording of the test *TC_002_signing_out*. __[Check here]()__
+  + Recording of the test *TC_003_adding_a_player*. __[Check here]()__
+  + Recording of the test *TC_004_checking_location_of_buttons*. __[Check here]()__
+  + Recording of the test *TC_005_adding_a_match_for_last_created_player*. __[Check here]()__
+  
+    <br>
+  
+  Note that all the files necessary for these automated tests can be found in this repository.
