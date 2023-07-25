@@ -1,9 +1,9 @@
 from webdriver_manager.core import driver
-from webdriver_manager.core.driver import Driver
 
 from pages.base_page import BasePage
 from selenium.webdriver.support.wait import WebDriverWait
 import time
+
 
 class Dashboard(BasePage):
     expected_title = "Scouts panel"
