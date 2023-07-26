@@ -52,8 +52,8 @@ class TestMatchesPage(unittest.TestCase):
         adding_match_player_page.click_match_at_home_radiobutton()
         adding_match_player_page.click_submit_button()
 
-        matches_page.wait_for_visibility_of_pop_out()
         matches_page.wait_for_add_match_button_clickability()
+        matches_page.wait_for_visibility_of_pop_out()
 
         base_page = BasePage(self.driver)
         base_page.take_screenshot("Screenshot_TC_005")
