@@ -73,6 +73,15 @@ studies and research.
 </ul>
 </details>
 
+<details open>
+<summary> <b> JAVA fundamentals </b> </summary> 
+<ul>
+<li> Can write simple functions and algorithms </li>
+<li> Variables, data type, conditional statements, loops, arrays </li>
+<li> Able to comprehend easy codes </li>
+</ul>
+</details>
+
 ---
 
 # Tools
