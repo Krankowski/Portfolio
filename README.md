@@ -111,7 +111,7 @@ studies and research.
 <i> Additionally: </i>
 <font size="1">
 
-[<b>PicPick</b>](https://picpick.app/pl/), [<b>ShareX</b>](https://getsharex.com/), [<b>GitHub</b>](https://git-scm.com/), [<b>IntelliJ IDEA</b>](https://www.jetbrains.com/idea/), [<b>PyCharm</b>](https://www.jetbrains.com/pycharm/)
+[<b>PicPick</b>](https://picpick.app/pl/), [<b>ShareX</b>](https://getsharex.com/), [<b>GitHub</b>](https://git-scm.com/), [<b>IntelliJ IDEA</b>](https://www.jetbrains.com/idea/), [<b>PyCharm</b>](https://www.jetbrains.com/pycharm/), [<b>Microsoft Office</b>](https://www.office.com/), [<b>Chrome DevTools</b>](https://developer.chrome.com/docs/devtools/)
 
 </font>
 
