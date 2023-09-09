@@ -19,7 +19,7 @@ Currently, I am intensively studying QA techniques and tools by attending online
 created for learning purposes.
 
 I want to gain experience as a manual software tester and cultivate my competencies in the IT sector. In the future, I would
-like to associate my professional growth with test automation through programming languages.
+like to associate my professional growth with test automation.
 
 In this repository, I would like to show you my qualifications, projects, and everything I have gained from my personal
 studies and research.
