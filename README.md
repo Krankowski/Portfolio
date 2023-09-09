@@ -128,7 +128,7 @@ An intensive course on the basics of manual testing theory.
 
 __[Practical Software Testing](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)__  
 *Online courses by [Testowanie Oprogramowania](https://www.udemy.com/user/rafal-podraza-3/), Udemy*  
-A complete course on learning to test web applications and more.  
+A complete course on learning to test web applications, and more.  
 [Link to the certificate](https://www.udemy.com/certificate/UC-3ec7eec2-88b3-4d37-ad42-b2c220b358e5/)
 
 <br>
@@ -141,7 +141,8 @@ A course from the ground-up testing REST API Postman in practice.
 
 __[Automatic Tests In Practice (+ Python)](https://www.dareit.io/challenges/wstep-do-testow-automatycznych)__ 
 *Online courses by [DareIT_challenge](https://www.dareit.io/challenges), DareIT*  
-A basic course in creating automated tests for web applications.
+A basic course in creating automated tests for web applications.  
+[Link to the certificate](https://drive.google.com/file/d/1sP_qA5laMD6B1of2tEbuRwosVDgdG5BM/view?usp=sharing)
 
 ---
 
