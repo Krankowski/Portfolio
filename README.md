@@ -43,6 +43,8 @@ studies and research.
 <ul>
 <li> Python fundamentals </li>
 <li> Selenium and RobotFramework libraries </li>
+<li> TypeScript fundamentals </li>
+<li> Playwright libraries </li>
 <li> Good locators strategies </li>
 <li> Able to comprehend easy codes </li>
 </ul>
