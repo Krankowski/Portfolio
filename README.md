@@ -166,7 +166,7 @@ A basic course in creating automated tests for web applications.
   + Bug #2. Clicking on the "View cart" button next to a recently added product does not relocate to the user's cart. __[Check here](https://drive.google.com/file/d/1iFZexlNRcWrbwuvjckQ6qBqhTCwTJ-4q/view?usp=sharing)__
   + Bug #3. Clicking on the "X" button next to any product in the cart does not delete the product from the cart. __[Check here](https://drive.google.com/file/d/19u4cpjQgnCh4Cg0OGuKNIBFO9WcqtM_8/view?usp=sharing)__
 
-### Test cases automated in PyCharm
+### Test cases automated with Selenium
 
 + A demo [scoutspanel](https://scouts-test.futbolkolektyw.pl/login) site was used to create test cases and automate them.
   + Test cases for scoutspanel site. __[Check here](https://docs.google.com/spreadsheets/d/1x7f8Yk0am4dxqy_thKiOildIs4yLFmyD/edit?usp=sharing&ouid=103846351617777504097&rtpof=true&sd=true)__
@@ -180,6 +180,21 @@ A basic course in creating automated tests for web applications.
   + Recording of the test *TC_005_adding_a_match_for_last_created_player*. __[Check here](https://drive.google.com/file/d/1pVjWJ5YHs34WPVNe5O35IvODfwHoejbe/view?usp=sharing)__
   
     <br>
+
+### Test cases automated with Playwright
+
++ A Google extension app [Phantom](https://chromewebstore.google.com/detail/phantom/bfnaelmomeimhlpmgjnjophhpkkoljpa) was used to create test cases and automate them.
+  + Test cases for Phantom app. __[Check here](https://docs.google.com/spreadsheets/d/1XZ3kpLYmncEASnjBwSgjVLd7Fp5JevhZ/edit?usp=sharing&ouid=103846351617777504097&rtpof=true&sd=true)__
   
-  Note that all the files necessary for these automated tests can be found in this repository.
+    <br>
+  
+  + Recording of the test *TC_001_Creating new account with correct password*. __[Check here](https://drive.google.com/file/d/1TjgTL3wS1LxMmtPtAxGsivdsPUsL-3ex/view?usp=sharing)__
+  + Recording of the test *TC_002_Creating new account with inputting correct password and not inputting confirm password*. __[Check here](https://drive.google.com/file/d/1v7y0IanplJ5Q2OCxVuCnSERs_sQHQiB9/view?usp=sharing)__
+  + Recording of the test *TC_003_Creating new account without inputting password and confirm password*. __[Check here](https://drive.google.com/file/d/1EkjLGAyXxX_vA4rIDPiaOZMnwlc-ShQT/view?usp=sharing)__
+  + Recording of the test *TC_004_Creating new account with inputting correct password and incorrect confirm password*. __[Check here](https://drive.google.com/file/d/1yEaJZQp55zj1riov2sCcSvakwW2rxzAp/view?usp=sharing)__
+  + Recording of the test *TC_005_Creating a new account with password and confirm password less than 8 characters*. __[Check here](https://drive.google.com/file/d/1PeG1Nz5qqO-NXdYaEpGSK-eG512TipOe/view?usp=sharing)__
+  
+    <br>
+  
+  Note that all the files necessary for these automated tests including Selenium and Playwright libraries can be found in this repository.
 
