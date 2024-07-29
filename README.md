@@ -10,19 +10,11 @@
 
 # About me
 
-I am a recent graduate who has decided to pursue a career in manual software testing. I am keenly interested in the IT
-sector and am eager to acquire new skills to advance my expertise in this field. My background in laboratory work has
-honed my attention to detail and analytical thinking abilities, enabling me to identify and address software
-issues with accuracy effectively.
+I have a solid foundation in manual testing with commercial experience in the IT sector. My journey in the industry has strengthened my attention to detail and analytical thinking, allowing me to effectively identify and resolve software issues.
 
-Currently, I am intensively studying QA techniques and tools by attending online courses and testing web applications
-created for learning purposes.
+Currently, I am enhancing my QA expertise by exploring advanced techniques and tools, and I have a keen interest in transitioning towards test automation in the future. My background in laboratory work has further sharpened my skills in precision and problem-solving.
 
-I want to gain experience as a manual software tester and cultivate my competencies in the IT sector. In the future, I would
-like to associate my professional growth with test automation.
-
-In this repository, I would like to show you my qualifications, projects, and everything I have gained from my personal
-studies and research.
+I am committed to continuous learning and professional growth within the IT field, leveraging my experience to contribute effectively to any team.
 
 ---
 
