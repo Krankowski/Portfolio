@@ -10,11 +10,11 @@
 
 # About me
 
-I have a solid foundation in manual testing with commercial experience in the IT sector. My journey in the industry has strengthened my attention to detail and analytical thinking, allowing me to effectively identify and resolve software issues.
+I have a strong foundation in manual software testing, backed by hands-on commercial experience in the IT sector. My journey in quality assurance has refined my attention to detail, analytical thinking, and problem-solving skills, enabling me to identify software issues efficiently.
 
-Currently, I am enhancing my QA expertise by exploring advanced techniques and tools, and I have a keen interest in transitioning towards test automation in the future. My background in laboratory work has further sharpened my skills in precision and problem-solving.
+I actively utilize a variety of testing techniques, including exploratory testing, regression testing, and functional testing, to ensure software quality meets the highest standards. Currently, I am expanding my expertise by delving into advanced QA methodologies and tools, with a particular focus on transitioning towards test automation.
 
-I am committed to continuous learning and professional growth within the IT field, leveraging my experience to contribute effectively to any team.
+My future career aspirations lie in developing robust automation frameworks using Java and Selenium. I am enthusiastic about bridging the gap between manual and automated testing to enhance efficiency and reliability in software development cycles.
 
 ---
 
@@ -23,56 +23,39 @@ I am committed to continuous learning and professional growth within the IT fiel
 <details open>
 <summary> <b> Manual testing </b> </summary>
 <ul>
-<li> Performing functional and usability tests for web applications </li>
-<li> Knowledge levels and types of tests </li>
-<li> Can utilize Boundary Value Analysis and Equivalence Class Partitioning in testing </li>
-<li> Hands-on experience by testing applications created for educational purposes </li>
+<li> Proficient in conducting comprehensive functional, usability, and exploratory testing for web applications, ensuring software quality and user satisfaction. </li>
+<li> Well-versed in various testing levels (integration, system, and acceptance) and types (functional, non-functional, regression, and smoke testing). </li>
+<li> Skilled in applying industry-standard test design techniques, including Boundary Value Analysis (BVA), Equivalence Class Partitioning (ECP), Decision Table Testing, and State Transition Testing, to create efficient and effective test cases. </li>
+<li> Hands-on experience in testing web applications, including those developed for educational and commercial purposes, with a focus on identifying critical issues and improving overall system performance. </li>
+<li> Adept at documenting test cases, executing them systematically, and reporting issues with clarity using bug-tracking tools. </li>
 </ul>
 </details>
 
 <details open>
-<summary> <b> Automatic Testing </b> </summary> 
+<summary> <b> Automated Testing </b> </summary> 
 <ul>
-<li> Python fundamentals </li>
-<li> Selenium and RobotFramework libraries </li>
-<li> TypeScript fundamentals </li>
-<li> Playwright libraries </li>
-<li> Good locators strategies </li>
-<li> Able to comprehend easy codes </li>
-</ul>
-</details>
-
-<details open>
-<summary> <b> Test documentation </b> </summary> 
-<ul>
-<li> Can create test cases and test scenarios and know how to use them effectively </li>
-<li> Preparing comprehensive bug reports and detailed session reports </li>
-</ul>
-</details>
-
-<details open>
-<summary> <b> API testing </b> </summary> 
-<ul>
-<li> Know the difference between SOAP and REST APIs </li>
-<li> Can implement API requests with GET, PUT, POST, and DELETE methods </li>
-<li> Can read and understand web application's documentation </li>
-<li> Hands-on experience through manual testing of APIs created for educational purposes</li>
+<li> Proficient in using Selenium WebDriver to design and execute automated tests, ensuring reliable validation of web applications across multiple browsers. </li>
+<li> Familiar with using Maven for dependency management and TestNG for organizing and executing test cases efficiently </li>
+<li> Skilled in implementing the Page Object Pattern to improve test maintainability and scalability, ensuring a clean separation of test logic from UI elements. </li>
+<li> Strong understanding of locator strategies (e.g., XPath, CSS Selectors) to interact with web elements effectively, optimizing test stability and reliability. </li>
+<li> Basic familiarity with Playwright for browser automation and TypeScript fundamentals, providing a foundation for extending automated testing capabilities in modern frameworks. </li>
 </ul>
 </details>
 
 <details open>
 <summary> <b> SQL fundamentals </b> </summary> 
 <ul>
-<li> Can write simple requests with SELECT, INSERT INTO, UPDATE, DELETE, and JOIN statements </li>
+<li> Proficient in writing basic SQL queries using statements such as SELECT, INSERT INTO, UPDATE, DELETE, and JOIN to retrieve, modify, and manage data in relational databases. </li>
 </ul>
 </details>
 
 <details open>
 <summary> <b> JAVA fundamentals </b> </summary> 
 <ul>
-<li> Can write simple functions and algorithms </li>
-<li> Variables, data type, conditional statements, loops, arrays </li>
-<li> Able to comprehend easy codes </li>
+<li> Solid understanding of core Java concepts, including data types, variables, loops, and control flow structures, enabling the creation of efficient and logical code. </li>
+<li> Familiar with object-oriented programming principles such as classes, objects, methods, constructors, inheritance, interfaces, and polymorphism, allowing for modular and reusable code design </li>
+<li> Basic knowledge of handling exceptions to ensure robust error management and improve application reliability. </li>
+<li> Experience working with Java collections (e.g., lists, sets, maps) to efficiently store and manipulate data. </li>
 </ul>
 </details>
 
@@ -90,22 +73,21 @@ I am committed to continuous learning and professional growth within the IT fiel
 + Know how to create test cases and test suits
 + Know how to use the dashboard and statistics
 
-[<b>Postman</b>](https://www.postman.com/)
-
-+ Implementing API tests
-+ Creating collections, global and environmental variables
-+ Creating a GET, POST, PUT, DELETE query
-
-[<b>GitHub Desktop</b>](https://github.com/)
+[<b>GitHub</b>](https://github.com/)
 
 + Cloning repositories, project branching, code sharing
 + Committing updates, fetching, pushing
+
+[<b>IntelliJ IDEA</b>](https://www.jetbrains.com/idea/)
+
++ Code editing, debugging, and project setup.
++ Configuring Maven and managing dependencies within the IDE.
 
 <br>
 <i> Additionally: </i>
 <font size="1">
 
-[<b>PicPick</b>](https://picpick.app/pl/), [<b>ShareX</b>](https://getsharex.com/), [<b>GitHub</b>](https://git-scm.com/), [<b>IntelliJ IDEA</b>](https://www.jetbrains.com/idea/), [<b>PyCharm</b>](https://www.jetbrains.com/pycharm/), [<b>Microsoft Office</b>](https://www.office.com/), [<b>Chrome DevTools</b>](https://developer.chrome.com/docs/devtools/)
+[<b>PicPick</b>](https://picpick.app/pl/), [<b>ShareX</b>](https://getsharex.com/), [<b>Microsoft Office</b>](https://www.office.com/), [<b>Chrome DevTools</b>](https://developer.chrome.com/docs/devtools/)
 
 </font>
 
@@ -127,9 +109,9 @@ A complete course on learning to test web applications, and more.
 
 <br>
 
-__[Postman From Scratch - REST API Testing](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)__  
-*Online courses by [Testowanie Oprogramowania](https://www.udemy.com/user/rafal-podraza-3/), Udemy*  
-A course from the ground-up testing REST API Postman in practice.
+__[Basics of Selenium with Java](https://www.udemy.com/course/kurs-selenium-java/?couponCode=MT24125BROW)__  
+*Online courses by [Tester Oprogramowania](https://www.udemy.com/user/testeroprogramowaniapl/), Udemy*  
+An intensive course on the basics of automative testing using Java with Selenium
 
 <br>
 
@@ -160,22 +142,22 @@ A basic course in creating automated tests for web applications.
   + Bug #2. Clicking on the "View cart" button next to a recently added product does not relocate to the user's cart. __[Check here](https://drive.google.com/file/d/1iFZexlNRcWrbwuvjckQ6qBqhTCwTJ-4q/view?usp=sharing)__
   + Bug #3. Clicking on the "X" button next to any product in the cart does not delete the product from the cart. __[Check here](https://drive.google.com/file/d/19u4cpjQgnCh4Cg0OGuKNIBFO9WcqtM_8/view?usp=sharing)__
 
-### Test cases automated with Selenium
+### Test cases automated with Selenium in Java
 
-+ A demo [scoutspanel](https://scouts-test.futbolkolektyw.pl/login) site was used to create test cases and automate them.
-  + Test cases for scoutspanel site. __[Check here](https://docs.google.com/spreadsheets/d/1x7f8Yk0am4dxqy_thKiOildIs4yLFmyD/edit?usp=sharing&ouid=103846351617777504097&rtpof=true&sd=true)__
++ A demo [travels](http://www.kurs-selenium.pl/demo/) site was used to create test cases and automate them.
+  + Test cases for travels site. __[Check here](https://docs.google.com/spreadsheets/d/1TYk9d8Xq6u_py1BbOb8r6-yUyxyf727k/edit?usp=sharing&ouid=103846351617777504097&rtpof=true&sd=true)__
   
     <br>
   
-  + Recording of the test *TC_001_wrong_password*. __[Check here](https://drive.google.com/file/d/1kA5mPnZEK6hWU0bhZ38i5-sxvC6AyUy-/view?usp=sharing)__
-  + Recording of the test *TC_002_signing_out*. __[Check here](https://drive.google.com/file/d/107468XQTu7rS9wa2d75YhkP5wUdsHt4X/view?usp=sharing)__
-  + Recording of the test *TC_003_adding_a_player*. __[Check here](https://drive.google.com/file/d/1TVYZA7GkKbOxe24ZIHPpislJxMuUW6BA/view?usp=sharing)__
-  + Recording of the test *TC_004_checking_location_of_buttons*. __[Check here](https://drive.google.com/file/d/1mnjTJzWyqncKxBnT05qxJ0VUz-Wf6-hy/view?usp=sharing)__
-  + Recording of the test *TC_005_adding_a_match_for_last_created_player*. __[Check here](https://drive.google.com/file/d/1pVjWJ5YHs34WPVNe5O35IvODfwHoejbe/view?usp=sharing)__
+  + Recording of the test *TC_001: Searching for available hotels with the correct city*. __[Check here](https://drive.google.com/file/d/1vGfKl_WMz_KLZv1VD0lERPrfi6Lp5FXe/view?usp=sharing)__
+  + Recording of the test *TC_002: Searching for hotels without specifying a city - error message verification*. __[Check here](https://drive.google.com/file/d/1zjI3UjGNK_PJdbdP0khGl0K15X81WBJT/view?usp=sharing)__
+  + Recording of the test *TC_003: Correct user registration with complete and correct data*. __[Check here](https://drive.google.com/file/d/1y1rol8vGPNavCNuLGP9dzu5WIvwp1iRV/view?usp=sharing)__
+  + Recording of the test *TC_004: User registration with invalid email address*. __[Check here](https://drive.google.com/file/d/1m1PaLYrFsZKxOrx0S8qTdr8JfAtVJOAG/view?usp=sharing)__
+  + Recording of the test *TC_005: Registration of a user with form not filled*. __[Check here](https://drive.google.com/file/d/1Ulp_SkIOOXm2FLVq0cN6nHXT65lh63Rb/view?usp=sharing)__
   
     <br>
 
-### Test cases automated with Playwright
+### Test cases automated with Playwright in TypeScript
 
 + A Google extension app [Phantom](https://chromewebstore.google.com/detail/phantom/bfnaelmomeimhlpmgjnjophhpkkoljpa) was used to create test cases and automate them.
   + Test cases for Phantom app. __[Check here](https://docs.google.com/spreadsheets/d/1XZ3kpLYmncEASnjBwSgjVLd7Fp5JevhZ/edit?usp=sharing&ouid=103846351617777504097&rtpof=true&sd=true)__
