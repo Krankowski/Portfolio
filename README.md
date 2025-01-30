@@ -23,22 +23,22 @@ My future career aspirations lie in developing robust automation frameworks usin
 <details open>
 <summary> <b> Manual testing </b> </summary>
 <ul>
-<li> Proficient in conducting comprehensive functional, usability, and exploratory testing for web applications, ensuring software quality and user satisfaction. </li>
-<li> Well-versed in various testing levels (integration, system, and acceptance) and types (functional, non-functional, regression, and smoke testing). </li>
-<li> Skilled in applying industry-standard test design techniques, including Boundary Value Analysis (BVA), Equivalence Class Partitioning (ECP), Decision Table Testing, and State Transition Testing, to create efficient and effective test cases. </li>
-<li> Hands-on experience in testing web applications, including those developed for educational and commercial purposes, with a focus on identifying critical issues and improving overall system performance. </li>
-<li> Adept at documenting test cases, executing them systematically, and reporting issues with clarity using bug-tracking tools. </li>
+<li> Experienced in functional, usability, and exploratory testing for web applications. </li>
+<li> Knowledgeable in various testing levels (integration, system, acceptance) and types (functional, non-functional, regression, smoke). </li>
+<li> Skilled in test design techniques (BVA, ECP, Decision Table, State Transition). </li>
+<li> Hands-on experience in testing educational and commercial applications, identifying critical issues. </li>
+<li> Proficient in documenting, executing test cases, and reporting defects using bug-tracking tools. </li>
 </ul>
 </details>
 
 <details open>
 <summary> <b> Automated Testing </b> </summary> 
 <ul>
-<li> Proficient in using Selenium WebDriver to design and execute automated tests, ensuring reliable validation of web applications across multiple browsers. </li>
-<li> Familiar with using Maven for dependency management and TestNG for organizing and executing test cases efficiently </li>
-<li> Skilled in implementing the Page Object Pattern to improve test maintainability and scalability, ensuring a clean separation of test logic from UI elements. </li>
-<li> Strong understanding of locator strategies (e.g., XPath, CSS Selectors) to interact with web elements effectively, optimizing test stability and reliability. </li>
-<li> Basic familiarity with Playwright for browser automation and TypeScript fundamentals, providing a foundation for extending automated testing capabilities in modern frameworks. </li>
+<li> Proficient in Selenium WebDriver for automated web testing across multiple browsers. </li>
+<li> Familiar with Maven for dependency management and TestNG for test execution. </li>
+<li> Experienced in the Page Object Pattern for test maintainability and scalability. </li>
+<li> Strong understanding of locator strategies (XPath, CSS Selectors) for stable test automation. </li>
+<li> Basic knowledge of Playwright for browser automation and TypeScript fundamentals. </li>
 </ul>
 </details>
 
@@ -52,10 +52,10 @@ My future career aspirations lie in developing robust automation frameworks usin
 <details open>
 <summary> <b> JAVA fundamentals </b> </summary> 
 <ul>
-<li> Solid understanding of core Java concepts, including data types, variables, loops, and control flow structures, enabling the creation of efficient and logical code. </li>
-<li> Familiar with object-oriented programming principles such as classes, objects, methods, constructors, inheritance, interfaces, and polymorphism, allowing for modular and reusable code design </li>
-<li> Basic knowledge of handling exceptions to ensure robust error management and improve application reliability. </li>
-<li> Experience working with Java collections (e.g., lists, sets, maps) to efficiently store and manipulate data. </li>
+<li> Solid grasp of core Java concepts (data types, variables, loops, control flow). </li>
+<li> Familiar with OOP principles (classes, objects, inheritance, interfaces, polymorphism). </li>
+<li> Basic understanding of exception handling for robust error management. </li>
+<li> Experience with Java collections (lists, sets, maps) for efficient data manipulation. </li>
 </ul>
 </details>
 
